@@ -16,7 +16,7 @@ $sql = $conexion->query(" select * from persona where id_persona=$id ");
 </head>
 <body>
     
-
+<!---  Aqui realizamos la vista de modificar persona ---->
 
 <form class="col-4 p-3 m-auto" method="POST">
         <h3 class="text-center text-secondary">Modificar Persona</h3>
