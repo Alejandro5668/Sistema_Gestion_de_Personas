@@ -14,4 +14,9 @@ Este proyecto es un **CRUD (Create, Read, Update, Delete)** desarrollado en **PH
 - HTML5
 - Bootstrap
 
+## Imagenes del Proyecto
+### Vista de Inicio
+![Pantalla principal](https://github.com/Alejandro5668/Sistema_Gestion_de_Personas/blob/main/img/Inicio.png)
 
+### Vista de Modificar Persona
+![Pantalla secundaria](https://github.com/Alejandro5668/Sistema_Gestion_de_Personas/blob/main/img/ModificarPersona.png)
